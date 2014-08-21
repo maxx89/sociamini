@@ -1,7 +1,7 @@
 sociamini
 =========
 
-socia mini is micro social networking engine devloped by pranjal pandey
+Sociamini is micro social networking engine devloped by pranjal pandey. It is in devlopment phase anfd cannot be used for production
 
 sociamini also contains
 --------------------------
