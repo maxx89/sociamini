@@ -5,9 +5,17 @@ socia mini is micro social networking engine devloped by pranjal pandey
 
 sociamini also contains
 --------------------------
-* laravel famework
-* authentication system by intrip
+* Laravel Famework.
+* Authentication System by Intrip.
+
+Setting up devlopment enviornment
+-----------------------------------
+* Install Wamp (For Windows) / Lamp (For Linux) / Mamp (For Mac).
+* Install Composer .
+* Download and Copy sociamini in your www directory .
+* Perform the composer install (It will install all the dependencies).
 
 
-A pranjal pandey product
-==========================
+
+
+
