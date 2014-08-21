@@ -14,6 +14,7 @@ Setting up devlopment enviornment
 * Install Composer .
 * Download and Copy sociamini in your www directory .
 * Perform the composer install (It will install all the dependencies).
+* Open command prompt and run the command php artesian:install .
 
 
 
