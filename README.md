@@ -1,7 +1,7 @@
 sociamini
 =========
 
-Sociamini is micro social networking engine devloped by pranjal pandey. It is in devlopment phase anfd cannot be used for production
+Sociamini is micro social networking engine devloped by pranjal pandey. It is in devlopment phase and cannot be used for production
 
 sociamini also contains
 --------------------------
